@@ -1,0 +1,6 @@
+build/
+dist/
+.cache/
+.DS_Store
+__pycache__/
+tools/local.env

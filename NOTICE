@@ -1,0 +1,12 @@
+ZeroTube
+Copyright 2026 ZeroTube contributors
+
+The GUI (src/) derives from the CardputerZero Template, Copyright M5Stack Technology CO LTD,
+MIT license.
+
+ZeroTube uses yt-dlp (Unlicense), installed separately with pip at run time; it ships no
+yt-dlp code. YouTube is a trademark of Google LLC. ZeroTube is an unofficial personal app,
+not made by or affiliated with Google or YouTube. The app icon (assets/images/zerotube*.png)
+is drawn by tools/make-icon.py.
+
+Fonts in assets/fonts/ are under their own licenses, see assets/fonts/LICENSE.txt.

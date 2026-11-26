@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=@APP_LAUNCHER_NAME@
+Comment=@APP_PACKAGE_DESCRIPTION@
+Exec=/usr/bin/@PROJECT_NAME@
+Icon=share/images/zerotube.png
+Terminal=false
+Categories=Utility;
+StartupNotify=false
